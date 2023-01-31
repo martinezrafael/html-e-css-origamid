@@ -1,0 +1,14 @@
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a {
+  color: tomato;
+  font-size: 32px;
+}
+
+a:hover {
+  color: blueviolet;
+  text-decoration: underline;
+}
